@@ -1,0 +1,14 @@
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\bin\Debug\netcoreapp2.1\MusiCon.deps.json
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\bin\Debug\netcoreapp2.1\MusiCon.runtimeconfig.json
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\bin\Debug\netcoreapp2.1\MusiCon.runtimeconfig.dev.json
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\bin\Debug\netcoreapp2.1\MusiCon.dll
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\bin\Debug\netcoreapp2.1\MusiCon.pdb
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.csprojAssemblyReference.cache
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.csproj.CoreCompileInputs.cache
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.RazorAssemblyInfo.cache
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.RazorAssemblyInfo.cs
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.AssemblyInfoInputs.cache
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.AssemblyInfo.cs
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.RazorTargetAssemblyInfo.cache
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.dll
+C:\Users\JoseLucas\Desktop\musicon\MusiCon\MusiCon\obj\Debug\netcoreapp2.1\MusiCon.pdb
